@@ -3,6 +3,7 @@
 To write a program to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data using Random Forest Algorithm.
 
 ## Problem Statement and Dataset
+To build a machine learning model using Random Forest Regression for predicting environmental factors like temperature, PM2.5 levels, and solar radiation from past weather data.
 
 
 
